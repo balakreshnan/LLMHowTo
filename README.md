@@ -7,3 +7,7 @@ https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view
 ## Video:
 
 https://www.youtube.com/watch?v=zjkBMFhNj_g&t=9s
+
+## Model Leaderboard
+
+https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
