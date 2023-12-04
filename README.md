@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=zjkBMFhNj_g&t=9s
 ## Model Leaderboard
 
 https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
+## Mechanistic interpretability
+
+https://transformer-circuits.pub/
